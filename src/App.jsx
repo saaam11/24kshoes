@@ -1,0 +1,1 @@
+export default function App() { return <h1>Bienvenido a 24kshoes</h1>; }
